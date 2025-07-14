@@ -1,64 +1,23 @@
-# 👋 Hi, I'm Mitesh Vaid
+<h1 align="center">Hi 👋, I'm Mitesh Vaid</h1>
+<h3 align="center">🎓 BCA Student | 💻 Full-Stack Web Developer | 🚀 MERN Stack Enthusiast | 📘 DSA & Java Learner Welcome to my GitHub! This repo is all about **me** – my journey, skills, and what I love to build. --- ## 💼 About Me I'm a passionate developer who loves turning ideas into reality through code. Currently pursuing **Bachelor of Computer Applications (BCA)** and building real-world projects using the **MERN stack**. I'm also focusing on strengthening my **Data Structures & Algorithms (DSA)** using **Java** to crack top tech companies. ---</h3>
 
-🎓 BCA Student | 💻 Full-Stack Web Developer | 🚀 MERN Stack Enthusiast | 📘 DSA & Java Learner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshvaid&label=Profile%20views&color=0e75b6&style=flat" alt="miteshvaid" /> </p>
 
-Welcome to my GitHub! This repo is all about **me** – my journey, skills, and what I love to build.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miteshvaid" alt="miteshvaid" /></a> </p>
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Miteshvaid](https://github.com/Miteshvaid)
 
-## 💼 About Me
-I'm a passionate developer who loves turning ideas into reality through code. Currently pursuing **Bachelor of Computer Applications (BCA)** and building real-world projects using the **MERN stack**.
+- 💬 Ask me about **MERN Stack**
 
-I'm also focusing on strengthening my **Data Structures & Algorithms (DSA)** using **Java** to crack top tech companies.
+- 📫 How to reach me **miteshvaid2020@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mitesh-vaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mitesh-vaid/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/miteshvaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/miteshvaid/" height="30" width="40" /></a>
+</p>
 
-## 🔧 Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-**🌐 Frontend:**
-- HTML, CSS, JavaScript, React.js
-
-**🖥️ Backend:**
-- Node.js, Express.js
-
-**💾 Database:**
-- MongoDB
-
-**🛠️ Tools & Tech:**
-- Git & GitHub, Postman, VS Code, Netlify, Cloudinary
-
-**📘 Programming Languages:**
-- Java (with focus on DSA)
-- JavaScript
-
----
-
-## 🚀 Projects
-
-- 💬 **Chat App with AI Bot**  
-  Real-time messaging app built using MERN stack + OpenAI.
-
-- 🖥️ **Codo-File**  
-  A powerful code editor with live preview, voice-to-code, and image-to-text features.
-
-- 🌐 **Portfolio Website**  
-  Fully responsive and visually appealing personal portfolio to showcase projects.
-
----
-
-## 📚 Currently Learning
-
-- 🔁 Data Structures & Algorithms in **Java**
-- ☁️ Cloud Computing concepts
-- 🎨 GSAP Animations for UI effects
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitesh-vaid/)
-- 📧 Email: Miteshvaid2020@gmail.com
-
----
-
-Thanks for visiting! If you like what I do, feel free to ⭐️ my repos and connect. 😊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miteshvaid&show_icons=true&locale=en&layout=compact" alt="miteshvaid" /></p>
