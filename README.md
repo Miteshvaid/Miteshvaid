@@ -1,5 +1,5 @@
 
-readme_code = '''<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Mitesh Vaid</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Mitesh Vaid</h1>
 
 <h3 align="center">🎓 BCA Student | 💻 Full-Stack Web Developer | 🚀 MERN Stack Enthusiast | 📘 DSA & Java Learner</h3>
 
@@ -148,9 +148,3 @@ const mitesh = {
 </p>
 '''
 
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_code)
-
-print("✅ README.md ban gaya hai!")
-print(f"\n📄 File: /mnt/agents/output/README.md")
-print(f"\n📊 Total lines: {len(readme_code.split
